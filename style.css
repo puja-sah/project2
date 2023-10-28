@@ -1,0 +1,24 @@
+body {
+          background-image: url('pik1.jpg');
+          background-size: cover;
+ }
+.imge ,img{
+          border-radius: 50%;
+          width: 300px;
+          height: 280px;
+          margin-left: 150px;
+          margin-top: 60px;
+}     
+.imge{
+          display: flex;
+
+}   
+.btns{
+          width: 300px;
+          height: 40px;
+}
+
+.txt{
+          color: white;
+          
+}
